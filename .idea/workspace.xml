@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20d15b31-58c0-4b69-bea5-22038569f1c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWars.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Que6.java" afterDir="false" />
-    </list>
+    <list default="true" id="20d15b31-58c0-4b69-bea5-22038569f1c8" name="Changes" comment="add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662478903308</updated>
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1662485559891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662485559891</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
